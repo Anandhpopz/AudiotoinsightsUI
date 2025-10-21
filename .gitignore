@@ -1,0 +1,27 @@
+# Credentials and secrets
+google_sheets_credentials.json
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+env/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temp/Artifacts
+*.log
+temp_audio.*
+*.xlsx
+*.xls
+*.wav
+

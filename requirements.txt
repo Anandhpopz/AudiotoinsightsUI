@@ -1,0 +1,7 @@
+requests
+pandas
+python-dotenv
+gspread
+oauth2client
+pymongo
+certifi
